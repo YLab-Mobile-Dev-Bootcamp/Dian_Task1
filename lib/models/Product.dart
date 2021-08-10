@@ -19,7 +19,7 @@ List<Product> products = [
   Product(
       id: 1,
       title: "Nasi Ayam",
-      price: 10000,
+      price: 17000,
       size: 12,
       description: dummyText,
       image: "assets/images/nasi_ayam.png",
