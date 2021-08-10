@@ -1,5 +1,6 @@
-# flutter_project
 
+# flutter_project
+![flutter_project](https://user-images.githubusercontent.com/54433667/128887501-72e860b2-7667-432a-a060-30bb775a3096.png)
 A new Flutter project.
 
 ## Getting Started
